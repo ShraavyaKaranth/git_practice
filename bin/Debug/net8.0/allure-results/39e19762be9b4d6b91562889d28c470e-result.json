@@ -1,0 +1,56 @@
+{
+  "uuid": "8ee60248-e500-47dc-9b0f-c3075b745ad7",
+  "historyId": "8fd28facc46f0f00bda1baf5e8e9b0d4",
+  "testCaseId": "a27da4033047de7af0de33fcd62904c1",
+  "fullName": "TestingEG:TestingEG.NunitTests.parallel2.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGGJLK96NG2O"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestingEG.NunitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "parallel2"
+    },
+    {
+      "name": "tag",
+      "value": "P1"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverArgumentException : File not found: \"C:\\Users\\shkar\\Downloads\\Untitled.pdf\"",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.SendKeys(String text)\r\n   at TestingEG.NunitTests.parallel2.testcase1() in C:\\Users\\shkar\\source\\repos\\TestingEG\\TestingEG\\NunitTests\\parallel2.cs:line 34\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592397742,
+  "stop": 1734592415313
+}

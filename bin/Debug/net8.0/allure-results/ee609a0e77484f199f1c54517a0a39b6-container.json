@@ -1,0 +1,12 @@
+{
+  "uuid": "b971787d-2bc0-4338-b03d-b58027100d4e",
+  "name": "TestingEG.NunitTests.AllureReportGen.test1",
+  "children": [
+    "a7921d7a-5210-418b-92f2-7f9c8945d58f"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734064922763,
+  "stop": 1734064922795
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "4645d110-ab34-4e05-b013-1838e7fd59f7",
+  "name": "TestingEG.NunitTests.parallel2.testcase2",
+  "children": [
+    "93a79d60-de27-4d04-aeb8-3f77ea25ce49"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592397742,
+  "stop": 1734592419200
+}

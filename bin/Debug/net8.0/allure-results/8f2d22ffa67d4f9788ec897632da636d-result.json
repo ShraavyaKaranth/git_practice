@@ -1,0 +1,49 @@
+{
+  "uuid": "7ddd7844-de8b-4d98-ab04-8616f15fd92b",
+  "historyId": "23bdb1d4fc03363febc9088eb15eab63",
+  "testCaseId": "99d6269629b2bf5bbeab717eab0b3f20",
+  "fullName": "TestingEG:TestingEG.NunitTests.parallel2.testcase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#15"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGGJLK96NG2O"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestingEG.NunitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "parallel2"
+    },
+    {
+      "name": "tag",
+      "value": "P1"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592889876,
+  "stop": 1734592917617
+}
